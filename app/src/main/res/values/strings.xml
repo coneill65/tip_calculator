@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tip_calculator</string>
+    <string name="tip_calculator">Tip calculator</string>
+    <string name="cost_of_meal">cost of meal</string>
+    <string name="calculate">Calculate</string>
+    <string name="waiter">waiter</string>
+    <string name="textview"> </string>
+    <string name="choose_the_percenetage_of_the_payment_you_would_like_to_tip">choose the percenetage of the payment you would like to tip.</string>
+    <string-array name="spinnerPercentages">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+</resources>
